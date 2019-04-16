@@ -1,0 +1,85 @@
+---
+title: "AIのBBL"
+author: "池田貴昭"
+date: "2019/4/16"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# AIと労働BBL
+
+## AIと労働
+
+本BBLはAI（ロボットによるオートメーションなども含む）と雇用労働の関係を研究した論文をレビューし、企画書作成等に生かそうという試みです。
+
+基本的にはAcemoglu＆Restrepo(2018) Artificial Intelligence, Automation and Workの解説を行います。この論文は経済学におけるAIやオートメーションと労働の関係について、どのような観点から理論化し、実証すればよいかを考える啓蒙的なものとなっている。（Economics of Artificial Intelligenceという本の一章になる予定）
+
+### Introduction
+
+誤った二分法
+
+人工知能やロボット技術の進歩が人間の仕事を終わらせるという警戒心を抱く議論もあるが、他方では、多くのエコノミストは、過去の技術革新によって最終的に労働力や賃金の需要が増加してきたため、この時期が違うことを懸念する理由はない、と主張している。
+
+本稿ではタスク、生産性、仕事には耐える自動化の影響について考えるフレームワークを提供する。
+
+- displacement effect (置換効果)
+- pruductivity effect(生産性効果)
+- 
+
+### Automation, Work, and Wages: Overview
+
+### Tasks, Technologies and Displacement
+
+タ
+
+### Countervailing Effects(相殺効果)
+
+### New Tasks
+
+### Revisiting the False Dichotomy
+
+### Flies in the Ointment
+
+### Mismatch between Skills and Technologies
+
+### Missing Productivity and Excessive Automation
+
+## A Model of Automation, Tasks, and the Demand for Labor
+
+### A Task-Based Framework
+
+### Types of Technological Change
+
+### Equilibrium
+
+## Technology and Labor demand
+
+### TheDisplacement Effect
+
+### Counteracting the Displacement Effect I: The Productivity Effects
+
+### Counteracting the Displacement Effect II: Capital Accumulation
+
+### Counteracting the Displacement Effect III: Deepening of Automation
+
+### New Tasks and the Comparative Advantage of Labor
+
+### A False Dichotomy: Recap
+
+### Generalizations
+
+### Employment and Unemployment
+
+## Constraints and Inefficiencies
+
+### Mismatch of Technologies and Skills
+
+### Automation at the Expense of New Tasks
+
+### Excessive Automation
+
+## Concluding Remarks
+

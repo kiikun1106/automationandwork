@@ -17,7 +17,7 @@ knitr::opts_chunk$set(echo = TRUE)
 
 基本的にはAcemoglu＆Restrepo(2018) Artificial Intelligence, Automation and Workの解説を行います。この論文は経済学におけるAIやオートメーションと労働の関係について、どのような観点から理論化し、実証すればよいかを考える啓蒙的なものとなっている。（Economics of Artificial Intelligenceという本の一章になる予定）
 
-### Introduction
+## Introduction
 
 誤った二分法
 
@@ -29,7 +29,7 @@ knitr::opts_chunk$set(echo = TRUE)
 - pruductivity effect(生産性効果)
 - 
 
-### Automation, Work, and Wages: Overview
+## Automation, Work, and Wages: Overview
 
 ### Tasks, Technologies and Displacement
 
@@ -40,8 +40,6 @@ knitr::opts_chunk$set(echo = TRUE)
 ### New Tasks
 
 ### Revisiting the False Dichotomy
-
-### Flies in the Ointment
 
 ### Mismatch between Skills and Technologies
 
